@@ -1,9 +1,9 @@
 # 🎮 Emoji Game
 
 A fun and interactive memory game built with **React**, designed to test your attention and recall skills.  
-👉 Live Demo: [Play Emoji Game](https://emoji-game-o96t.onrender.com)
 
----
+🌐 Deployment
+Live demo: https://emoji-game-o96t.onrender.com
 
 ## 🚀 Features
 - **React-based app** with modern UI
@@ -13,6 +13,8 @@ A fun and interactive memory game built with **React**, designed to test your at
 - **SEO-friendly setup** with `robots.txt`
 
 ---
+
+
 
 ## 📂 Project Structure
 - `manifest.json` → Defines app name, icons, and theme colors  
@@ -31,5 +33,4 @@ cd emoji-game
 npm install
 npm start
 
-🌐 Deployment
-Live demo: https://emoji-game-o96t.onrender.com
+
